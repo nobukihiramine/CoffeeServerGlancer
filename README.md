@@ -3,7 +3,7 @@
 http://www.hiramine.com/physicalcomputing/coffeeserverglancer/index.html
 
 ## Screenshots : スクリーンショット
-<img src="screenshots/screenshot_01.png" width="240" alt="Screenshot"/> <img src="screenshots/screenshot_02.png" width="240" alt="Screenshot"/> <img src="screenshots/screenshot_03.png" width="240" alt="Screenshot"/>
+<img src="screenshots/screenshot_01.png" width="240" alt="Screenshot"/> <img src="screenshots/screenshot_02.png" width="240" alt="Screenshot"/> <img src="screenshots/screenshot_03.png" width="240" alt="Screenshot"/> <img src="screenshots/screenshot_04.png" width="240" alt="Screenshot"/>
 
 ## Requirements : 必要条件、依存関係
 - Android Studio 2.3.3
