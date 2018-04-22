@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Coffee Server Glancer</string>
+
+    <!-- MainActivity トースト用 -->
+    <string name="ble_is_not_supported">BLE is not supported</string>
+    <string name="bluetooth_is_not_supported">Bluetooth is not supported.</string>
+    <string name="bluetooth_is_not_working">Bluetooth is not working.</string>
+
+    <!-- MainActivity メニュー用 -->
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+
+    <!-- MainActivity ラベル用 -->
+    <string name="device_name">Device Name : </string>
+    <string name="device_address">Device Address : </string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="value">Value : </string>
+    <string name="remaining">Remaining : </string>
+
+    <!-- MainActivity 残量ラベル用 -->
+    <string name="invalid_fullsensorvalue_setting">Invalid [Full Sensor Value] setting.</string>
+    <string name="invalid_emptysensorvalue_setting">Invalid [Empty Sensor Value] setting.</string>
+    <string name="invalid_coffeeserversize_setting">Invalid [Coffee Server Size] setting.</string>
+    <string name="invalid_settings">Invalid settings.</string>
+    <string name="no_coffeeserver">No Coffee Server.</string>
+    <string name="almost_none">Almost none.</string>
+    <string name="unit_cups">[cups]</string>
+
+    <!-- DeviceListActivity トースト用 -->
+    <string name="unknown_device">Unknown device</string>
+
+    <!-- DeviceListActivity メニュー用 -->
+    <string name="scan">Scan</string>
+    <string name="stop">Stop</string>
+
+    <!-- Preferences用 -->
+    <string name="title_FullSensorValue">Full sensor value [0-1023]</string>
+    <string name="title_EmptySensorValue">Empty sensor value [0-1023]</string>
+    <string name="title_CoffeeServerSize">Coffee server size [cups]</string>
+    <string name="summary_FullSensorValue">Sensor value when coffee server is full.</string>
+    <string name="summary_EmptySensorValue">Sensor value when coffee server is empty.</string>
+    <string name="summary_CoffeeServerSize">Number of coffee cups when coffee server is full.</string>
+</resources>

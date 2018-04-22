@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <com.hiramine.coffeeserverglancer.DisplayValueEditTextPreference
+        android:defaultValue="0"
+        android:inputType="number"
+        android:key="FullSensorValue"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/summary_FullSensorValue"
+        android:title="@string/title_FullSensorValue"/>
+
+    <com.hiramine.coffeeserverglancer.DisplayValueEditTextPreference
+        android:defaultValue="0"
+        android:inputType="number"
+        android:key="EmptySensorValue"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/summary_EmptySensorValue"
+        android:title="@string/title_EmptySensorValue"/>
+
+    <com.hiramine.coffeeserverglancer.DisplayValueEditTextPreference
+        android:defaultValue="0"
+        android:inputType="number"
+        android:key="CoffeeServerSize"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="@string/summary_CoffeeServerSize"
+        android:title="@string/title_CoffeeServerSize"/>
+</PreferenceScreen>
